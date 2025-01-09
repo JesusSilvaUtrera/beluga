@@ -2,11 +2,12 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Environment](#environment)
-- [Workflow](#workflow)
-- [CI/CD](#cicd)
-- [Next Steps](#next-steps)
+- [Developing Beluga](#developing-beluga)
+  - [Table of Contents](#table-of-contents)
+  - [Environment](#environment)
+  - [Workflow](#workflow)
+  - [CI/CD](#cicd)
+  - [Next Steps](#next-steps)
 
 ## Environment
 
@@ -50,6 +51,7 @@ Within a development environment:
 
     ```bash
     cd /ws
+    source /opt/ros/$ROS_DISTRO/setup.bash
     colcon build --symlink-install
     colcon test
     ```

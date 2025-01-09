@@ -16,11 +16,11 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 - [I Have a Question](#i-have-a-question)
 - [I Want To Contribute](#i-want-to-contribute)
-   - [Reporting Bugs](#reporting-bugs)
-   - [Requesting Features](#requesting-features)
-   - [Your First Code Contribution](#your-first-code-contribution)
-      - [A Primer On Project Workflow](#a-primer-on-project-workflow)
-      - [How Do I Submit a Good Code Contribution?](#how-do-i-submit-a-good-code-contribution)
+  - [Reporting Bugs](#reporting-bugs)
+  - [Requesting Features](#requesting-features)
+  - [Your First Code Contribution](#your-first-code-contribution)
+    - [A Primer On Project Workflow](#a-primer-on-project-workflow)
+    - [How Do I Submit a Good Code Contribution?](#how-do-i-submit-a-good-code-contribution)
 - [Styleguides](#styleguides)
 
 ## I Have a Question
